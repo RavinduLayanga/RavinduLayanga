@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ravindu, a computer Science student 👨‍💻  🚀</div>  
+### <div align="center">I'm Ravindu Layanga, a computer Science student 👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently Studying at University of Westminster | IIT Cmpus  
@@ -109,4 +109,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br><br>
