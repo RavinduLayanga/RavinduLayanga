@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravindulayanga" target="blank"><img src="https://img.shields.io/twitter/follow/ravindulayanga?logo=twitter&style=for-the-badge" alt="ravindulayanga" /></a> </p>
 
-- 🔭 I’m currently Stydying at **University of Westminster | IIT Cmpus**
+- 🔭 I’m currently Stydying at **University of Westminster | IIT Campus**
 
 - 🌱 I’m currently learning **PHP, R**
 
