@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently Stydying at **University of Westminster | IIT Campus**
 
-- 🌱 I’m currently learning **PHP, R**
-
-- 💬 Ask me about **Java, Python, Html, CSS**
-
-- 📫 How to reach me **ravindulayanga999@gmail.com**
+- 📫 How to reach me **ravi.layanga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
