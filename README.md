@@ -25,7 +25,7 @@ My professional foundation was built during my **Software Engineering Internship
     * **Intern at CodeOne-X:** Built and maintained web applications using **Vue.js**, **PHP**, **CodeIgniter**, **WordPress**, and **MySQL**.
     * Designed responsive UIs with **Tailwind CSS**, **Bootstrap**, and **CSS3**.
 * 💻 **Primary Focus:** Full Stack Development.
-* 🌱 **Currently Learning:** Expanding my stack with **Node.js**, **React**, and **MongoDB**.
+* 🌱 **Currently Learning:** Expanding my stack with **Next.js**, **React**, and **Node.js**.
 
 ---
 
