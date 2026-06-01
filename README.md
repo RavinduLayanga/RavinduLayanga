@@ -45,6 +45,8 @@ My professional foundation was built during my **Software Engineering Internship
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <br/><br/> **🌐 Web Frameworks & CMS**
 <br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
@@ -53,6 +55,7 @@ My professional foundation was built during my **Software Engineering Internship
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <br/><br/> **⚙️ Tools, Databases & Workflow**
 <br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
@@ -65,6 +68,13 @@ My professional foundation was built during my **Software Engineering Internship
 ---
 
 ### 🚀 Full Stack & Engineering Highlights
+
+
+**🤖 [SmartNotes AI (Next.js SaaS)](https://github.com/RavinduLayanga/SmartNotes-Ai)**
+> *A full-stack, AI-powered note management dashboard with backend rate-limiting security.*
+* **Architecture:** Built an authenticated web application utilizing the **Next.js App Router** and **React**.
+* **Functionality:** Engineered a custom Node.js backend rate-limiting system to protect API endpoints, and implemented dynamic text summarization utilizing the **Groq API (LLaMA 3.1)** and a serverless **PostgreSQL** database (Neon).
+* **Tech Stack:** Next.js, Tailwind CSS, PostgreSQL, OAuth, Groq AI.
 
 **☕ [Enterprise Systems (Java Focus)](https://github.com/RavinduLayanga/skin-consultation-management-system)**
 > *Desktop applications demonstrating core Object-Oriented principles.*
