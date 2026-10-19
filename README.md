@@ -66,32 +66,48 @@ My professional foundation was built during my **Software Engineering Internship
 
 ---
 
-### 🚀 Full Stack & Engineering Highlights
+### 🚀 Full-Stack Projects & Engineering Highlights
 
+**🛍️ [Clothing & Fashion E-Commerce Platform](https://fashion-store-lime-one.vercel.app/)** · [Source Code](https://github.com/RavinduLayanga/FashionStore-E-Commerce-Platform)
 
-**🤖 [SmartNotes AI (Next.js SaaS)](https://github.com/RavinduLayanga/SmartNotes-Ai)**
-> *A full-stack, AI-powered note management dashboard with backend rate-limiting security.*
-* **Architecture:** Built an authenticated web application utilizing the **Next.js App Router** and **React**.
-* **Functionality:** Engineered a custom Node.js backend rate-limiting system to protect API endpoints, and implemented dynamic text summarization utilizing the **Groq API (LLaMA 3.1)** and a serverless **PostgreSQL** database (Neon).
-* **Tech Stack:** Next.js, Tailwind CSS, PostgreSQL, OAuth, Groq AI.
+> *A full-stack e-commerce application with inventory reservations and order management.*
 
-**☕ [Enterprise Systems (Java Focus)](https://github.com/RavinduLayanga/skin-consultation-management-system)**
-> *Desktop applications demonstrating core Object-Oriented principles.*
-* **Skin Consultation Manager:** A robust desktop application built with **Java Swing**, implementing **data encryption** and dynamic image handling for medical records.
-* **Fuel Management System:** A resource management tool exploring console-based logic and algorithmic efficiency.
-* **Core Tech:** Java, OOP, Cryptography.
+- **Architecture:** Built a Next.js storefront connected to a separate Express REST API, using Prisma and PostgreSQL for data persistence.
+- **Functionality:** Implemented product search and filtering, variant-based inventory, a shopping cart, guest checkout, transactional inventory reservations, and an authenticated admin dashboard.
+- **Tech Stack:** Next.js, React, JavaScript, Express, Prisma, PostgreSQL, Tailwind CSS.
 
-**💻 [MixCap Web Platform (Full Stack Application)](https://github.com/RavinduLayanga/mixcap-web-platform)**
-> *A comprehensive video content management platform.*
-* **Architecture:** Built a responsive **React** frontend communicating with a **Flask** backend via RESTful APIs.
-* **Functionality:** Deploys the MixCap AI model to generate video descriptions for end-users.
-* **Tech Stack:** React, JavaScript, Python, Flask.
+**🚆 [Segment-Based Train Seat Booking System](https://github.com/RavinduLayanga/segment-seat-booking-system)**
 
-**📱 [Web & Mobile Interfaces](https://github.com/RavinduLayanga/portfolio)**
-> *Client-facing applications focusing on modern UI development.*
-* **Portfolio Website:** Personal site built with **HTML/CSS/Tailwind**.
-* **iOS Weather App:** Native mobile interface built with **SwiftUI** demonstrating MVVM patterns.
-* **Internship Work:** Contributed to production apps using **Vue.js**, **PHP**, and **CodeIgniter**.
+> *A full-stack reservation system featuring segment-based seat allocation and concurrency-safe booking.*
+
+- **Engineering:** Implemented PostgreSQL transactions and row-level locking to prevent conflicting bookings while allowing the same physical seat to be reused for non-overlapping journey segments.
+- **Functionality:** Built a dynamic seat map, journey search, distance-based fare calculation, and printable booking confirmations.
+- **Tech Stack:** Java 17, Javalin, JDBC, PostgreSQL, React, Vite, Tailwind CSS, Docker Compose.
+  
+**🤖 [SmartNotes AI](https://smart-notes-ai-gold.vercel.app/)**· [Source Code](https://github.com/RavinduLayanga/SmartNotes-Ai)
+
+> *An AI-powered note management application with authentication and text summarization.*
+
+- **Functionality:** Integrated Google OAuth, Groq API-powered text summarization, PostgreSQL persistence through Neon, and API rate limiting.
+- **Tech Stack:** Next.js, React, PostgreSQL, Auth.js, Groq API, Tailwind CSS.
+
+**🎬 [MixCap Web Platform](https://github.com/RavinduLayanga/mixcap-web-platform)**
+
+> *A full-stack web platform integrating an AI model for video caption generation.*
+
+- **Architecture:** Developed a React frontend integrated with a Flask backend through REST APIs.
+- **Functionality:** Integrated the MixCap video-captioning model into a web application.
+- **Tech Stack:** React, JavaScript, Python, Flask, REST API.
+
+### ☕ Java & Object-Oriented Development
+
+**[Skin Consultation Management System](https://github.com/RavinduLayanga/skin-consultation-management-system)**
+
+> A Java Swing desktop application demonstrating object-oriented design, consultation management, data encryption, and image handling.
+
+**Fuel Management System**
+
+> A console-based Java application exploring resource management, object-oriented programming, and algorithmic problem-solving.
 
 ---
 
