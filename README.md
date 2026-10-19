@@ -105,7 +105,7 @@ My professional foundation was built during my **Software Engineering Internship
 
 > A Java Swing desktop application demonstrating object-oriented design, consultation management, data encryption, and image handling.
 
-**Fuel Management System**
+**[Fuel Management System](https://github.com/RavinduLayanga/fuel-management-system)**
 
 > A console-based Java application exploring resource management, object-oriented programming, and algorithmic problem-solving.
 
